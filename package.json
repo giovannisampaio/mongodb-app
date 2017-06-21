@@ -1,0 +1,8 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "2.2.29",
+    "underscore": "1.8.3"
+  }
+}
